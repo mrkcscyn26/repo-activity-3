@@ -1,2 +1,3 @@
 This is my first Git activity.
 Added more information in the feature branch.
+Edited directly on Github
